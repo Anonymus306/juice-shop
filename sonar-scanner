@@ -1,0 +1,4 @@
+  -Dsonar.projectKey=DevSecOps \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://3.208.29.158:9000 \
+  -Dsonar.token=sqp_d4da60c6c49671709b8a8810e2c9942f1c961d65
