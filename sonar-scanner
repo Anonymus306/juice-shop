@@ -1,3 +1,4 @@
+sonar-scanner \
   -Dsonar.projectKey=DevSecOps \
   -Dsonar.sources=. \
   -Dsonar.host.url=http://3.208.29.158:9000 \
